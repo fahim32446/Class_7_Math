@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Class 7 Math Guide</string>
+
+
+
+
+    <!--Test Ads -->
+        <string name="admob_APP_ID">ca-app-pub-8925737559456961~8623223060</string>
+        <string name="admob_BANNER_UNIT_ID">ca-app-pub-8925737559456961/4686797733</string>
+        <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-8925737559456961/3565287758</string>
+
+
+
+
+</resources>
